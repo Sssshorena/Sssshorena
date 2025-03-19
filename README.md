@@ -50,7 +50,7 @@ I am a developer specializing in server-side technologies, API development, and 
 ## 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shorena-revazishvili/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Sssshorena/Sssshorena)
-- **Email**: sssshorena@gmail.com
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sssshorena@gmail.com)
 
 ---
 
