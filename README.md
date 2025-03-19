@@ -40,17 +40,17 @@ I am a developer specializing in server-side technologies, API development, and 
 ## 📊 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sssshorena&show_icons=true&theme=radical)
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?Sssshorena=yourusername&theme=react-dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sssshorena&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sssshorena&layout=compact&theme=radical)
-
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sssshorena&theme=tokyo-night)
 
 
 ---
 
 ### 📫 How to Reach Me
-
-- **GitHub**: https://github.com/Sssshorena/Sssshorena
-- **LinkedIn**: https://www.linkedin.com/in/shorena-revazishvili/
+## 📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shorena-revazishvili/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Sssshorena/Sssshorena)
 - **Email**: sssshorena@gmail.com
 
 ---
