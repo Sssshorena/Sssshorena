@@ -40,7 +40,7 @@ I am a developer specializing in server-side technologies, API development, and 
 ## 📊 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sssshorena&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sssshorena&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sssshorena&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sssshorena&layout=compact&theme=radical)
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sssshorena&theme=tokyo-night)
 
