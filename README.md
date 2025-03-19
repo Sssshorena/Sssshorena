@@ -37,6 +37,16 @@ I am a developer specializing in server-side technologies, API development, and 
 
 ---
 
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sssshorena&show_icons=true&theme=radical)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?Sssshorena=yourusername&theme=react-dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sssshorena&layout=compact&theme=radical)
+
+
+
+---
+
 ### 📫 How to Reach Me
 
 - **GitHub**: https://github.com/Sssshorena/Sssshorena
@@ -45,7 +55,7 @@ I am a developer specializing in server-side technologies, API development, and 
 
 ---
 
-⭐ **If you like my work, consider giving my repository a star!** ⭐
+
 
 
 <!--
