@@ -46,7 +46,6 @@ I am a developer specializing in server-side technologies, API development, and 
 
 ---
 
-### 📫 How to Reach Me
 ## 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shorena-revazishvili/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Sssshorena/Sssshorena)
