@@ -31,7 +31,7 @@ I am a developer specializing in server-side technologies, API development, and 
 ### 🎯 What I Do
 
 🚀 Develop and optimize server-side architecture  
-🔗 Design RESTful and GraphQL APIs  
+🔗 Design RESTful APIs  
 📊 Work with high-load databases  
 📦 Build 3-tier, MVC and monolithic applications  
 
